@@ -15,4 +15,4 @@ Additional advance CSS that includes media queries and flexbox to make the site 
 ## Contribution
 Made with ❤️ by Joseph
 
-## ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc 
